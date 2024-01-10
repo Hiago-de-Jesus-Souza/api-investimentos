@@ -1,6 +1,6 @@
 # Back End Test Project <img src="https://www.moveissimonetti.com.br/arquivos/header-logo.png?v=636639862737800000" align="right" height="50px" />
 
-O teste pede uma criação de uma API onde a principal linguagem seja PHP
+O teste pede uma criação de uma API onde a principal linguagem seja PHP, e o Symfony como sujestão
 
 ## Escopo
 
